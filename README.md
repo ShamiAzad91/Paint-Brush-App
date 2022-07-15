@@ -1,1 +1,3 @@
-# Paint-Brush-App
+# Paint-Brush-App web app
+##npm start
+##npm install
